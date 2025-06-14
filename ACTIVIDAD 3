@@ -2,8 +2,6 @@ import os
 import glob
 import shutil
 
-os.chdir("/Users/DANIEL/3D Objects/prueba/")
-
 while(True):
     if os.path.exists("documentos") == True:
         pass
